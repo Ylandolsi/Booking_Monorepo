@@ -1,6 +1,7 @@
+
 using Booking.Common.Domain.Entity;
 
-namespace Booking.Modules.Mentorships.Domain.Entities;
+namespace Booking.Modules.Payments.Domain;
 
 public class Transaction : Entity
 {
